@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @marc4data
-- 👀 I’m interested in all things that fall under modern data strategy
-- 🌱 I’m currently learning some machine learning skills with python
+- 👀 I’m interested in all things that fall under Modern Data Strategy
+- 🌱 Currently working on a Python app to source College Football data, shape it, model it, and use it to beat Vegas!!!
 - 💞️ I’m looking to collaborate on more data viz projects
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/marc-alexander-9149a42/)
+- 📫 How to reach me [LinkedIn]([https://www.linkedin.com/in/marc-alexander-9149a42/](https://www.linkedin.com/in/marc4data/))
+- 📉 My [Tableau Public](https://public.tableau.com/app/profile/marcdoesbi/vizzes) profile.  Current favorite is analysis of [Inbound Border Crossings into USA](https://public.tableau.com/app/profile/marcdoesbi/viz/USInboundBorderCrossingDatav2/MAINDashboard)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: oklahoma state cowboy fan and love college wrestling. Go Pokes!
 
